@@ -26,6 +26,7 @@ Cities are hubs of opportunities, education, and a better quality of life, attra
 ### Prerequisites
 
 - Java Development Kit (JDK)
+- JavaFX
 - MySQL Server/MS Access Database
 - Integrated Development Environment (IDE) like Eclipse or IntelliJ
 
